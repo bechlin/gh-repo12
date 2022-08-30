@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{E8A84AAF-CC2D-4207-99D5-A51E63B7461E}">
+	<children>
+		<child name="Notepad" key="{CE85C4DE-7C1F-408C-BE04-5806E643D0CD}" path="Notepad\Notepad.mds" />
+	</children>
+	<testItems key="{29A36703-9D54-4460-99E7-872495C2B053}">
+		<children>
+			<testItem key="{CE85C4DE-7C1F-408C-BE04-5806E643D0CD}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{05D4DA93-12C6-4EFC-9DBB-AB20206A9452}" />
+	<analysis key="{A4C57545-0DD4-4B0A-8D94-DDBCDC26D7F0}" />
+	<scc key="{C900492B-D218-429C-9AA0-264B7D78CA88}" name="Git Plugin">
+		<data />
+	</scc>
+</Root>

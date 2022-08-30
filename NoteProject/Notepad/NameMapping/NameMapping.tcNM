@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{1B6C2B9E-5263-4062-AB8B-AE9822C3EA79}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="notepad" Key="{AB76856E-B68F-4DAA-91FB-5D40F178D247}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="notepad" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndNotepad" Key="{B2244F85-7766-4D53-98A0-FA354331BEB7}">
+								<Image FileName="1478804801" Left="0" Top="0" Right="894" Bottom="427" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="Notepad" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Edit" Key="{8E47FBCC-EFC4-46C2-9F68-F385C50D3056}">
+										<Image FileName="-1380996250" Left="8" Top="51" Right="886" Bottom="396" />
+										<TypeInfo Item0="{740424D5-365C-4D6A-8654-EABC6B4B5035}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Edit" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlgSaveAs" Key="{C014B074-B74C-44F3-ABCE-C373434BBFDF}">
+								<Image FileName="-1030462855" Left="0" Top="0" Right="683" Bottom="480" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+									<Property Name="WndCaption">
+										<Value Value="Save As" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="DUIViewWndClassName" Key="{F5606A69-BD54-48D9-B343-073DFFC56010}">
+										<Image FileName="-1030462855" Left="8" Top="73" Right="675" Bottom="420" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="DUIViewWndClassName" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="DirectUIHWND" Key="{00201F8C-9C96-4215-8207-08577DA05D1A}">
+												<Image FileName="-1030462855" Left="8" Top="73" Right="675" Bottom="420" />
+												<Properties>
+													<Property Name="WndClass">
+														<Value Value="DirectUIHWND" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="FloatNotifySink" Key="{61CC18A1-19B6-40DE-8204-3573FB612753}">
+														<Image FileName="-1030462855" Left="133" Top="366" Right="670" Bottom="389" />
+														<Properties>
+															<Property Name="WndClass">
+																<Value Value="FloatNotifySink" />
+															</Property>
+															<Property Name="WndCaption">
+																<Value Value="" />
+															</Property>
+															<Property Name="Index">
+																<Value Value="1" Type="0" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="ComboBox" Key="{FF24C573-FD09-4E7D-92F6-DD99BDE94DAC}">
+																<Image FileName="-1030462855" Left="133" Top="366" Right="670" Bottom="389" />
+																<Properties>
+																	<Property Name="WndClass">
+																		<Value Value="ComboBox" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="Edit" Key="{C573BD96-54FA-4CEC-9889-DC2F22128947}">
+																		<Image FileName="-1030462855" Left="136" Top="369" Right="650" Bottom="386" />
+																		<TypeInfo Item0="{740424D5-365C-4D6A-8654-EABC6B4B5035}" />
+																		<Properties>
+																			<Property Name="WndClass">
+																				<Value Value="Edit" />
+																			</Property>
+																		</Properties>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+									<Child Name="btnSave" Key="{E9ADD50B-18F2-45BB-91D0-7731BDF07750}">
+										<Image FileName="-567462959" Left="470" Top="434" Right="558" Bottom="460" />
+										<TypeInfo Item0="{A6891529-2483-4AEA-955E-FF128117BD4F}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="&amp;Save" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="notepad" Owner="{AB76856E-B68F-4DAA-91FB-5D40F178D247}">
+			<Child Name="wndNotepad" Owner="{B2244F85-7766-4D53-98A0-FA354331BEB7}">
+				<Child Name="Edit" Owner="{8E47FBCC-EFC4-46C2-9F68-F385C50D3056}" />
+			</Child>
+			<Child Name="dlgSaveAs" Owner="{C014B074-B74C-44F3-ABCE-C373434BBFDF}">
+				<Child Name="DUIViewWndClassName" Owner="{F5606A69-BD54-48D9-B343-073DFFC56010}">
+					<Child Name="DirectUIHWND" Owner="{00201F8C-9C96-4215-8207-08577DA05D1A}">
+						<Child Name="FloatNotifySink" Owner="{61CC18A1-19B6-40DE-8204-3573FB612753}">
+							<Child Name="ComboBox" Owner="{FF24C573-FD09-4E7D-92F6-DD99BDE94DAC}">
+								<Child Name="Edit" Owner="{C573BD96-54FA-4CEC-9889-DC2F22128947}" />
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+				<Child Name="btnSave" Owner="{E9ADD50B-18F2-45BB-91D0-7731BDF07750}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>
