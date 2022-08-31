@@ -21,7 +21,7 @@
 	<Node name="root">
 		<Node name="data">
 			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
-				<Prp name="activity" type="S" value="{CE85C4DE-7C1F-408C-BE04-5806E643D0CD}"/>
+				<Prp name="activity" type="S" value="{95DCB157-5EA4-4C41-A8F1-E1C3D384C53B}"/>
 			</Node>
 			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}">
 				<Node name="{9c85481b-b8fd-4466-8683-f7f3c20ade4d}">
@@ -77,7 +77,11 @@
 					<Node name="notepad">
 						<Node name="keywordtests"/>
 						<Node name="script"/>
+						<Node name="testedapps"/>
 					</Node>
+				</Node>
+				<Node name="noteproject logs">
+					<Node name="notepad logs"/>
 				</Node>
 			</Node>
 		</Node>
