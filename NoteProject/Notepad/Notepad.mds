@@ -4,10 +4,17 @@
 		<child name="NameMapping" key="{43C4527B-25FD-442C-A21B-DD6EBFA8DC4C}" type="Name Mapping" typeId="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" pluginName="NameMapping" path="NameMapping\NameMapping.tcNM" />
 		<child name="Script" key="{9C85481B-B8FD-4466-8683-F7F3C20ADE4D}" type="Script" typeId="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" pluginName="Script" path="Script\Script.tcScript" />
 		<child name="KeywordTests" key="{8B01D9C3-35A3-4511-B022-B807B4144D8D}" type="Keyword Testing" typeId="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" pluginName="Keyword Testing" path="KeywordTests\KeywordTests.tcKDT" />
+		<child name="TestedApps" key="{7832DB82-CEF9-4719-B7B2-8FC0B89273FB}" type="Tested Applications" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" pluginName="" path="TestedApps\TestedApps.tcTAs" />
 	</children>
 	<config language="{7D0FC31C-B0A7-4F4F-B5AF-1F16370169CB}" />
 	<testItems key="{7AF837A5-4C99-4725-9047-4EA43B38F855}" version="14">
-		<children />
+		<children>
+			<testItem name="ProjectTestItem1" key="{C3B074FD-3720-44F7-AB01-41231178492D}" group="False" parallel="False" enabled="True" testMoniker="KDT\{95DCB157-5EA4-4C41-A8F1-E1C3D384C53B}" count="1" timeout="0" stopOnError="3" stopOnException="2" description="" tmsData="" testCase="True">
+				<testParameters />
+				<environments activeCloud="CBT" />
+				<children />
+			</testItem>
+		</children>
 	</testItems>
 	<variables key="{3820B6A1-F461-45B1-A210-5736F1B5F5A3}" />
 	<settings key="{5034364D-30FC-4504-B916-EE430EBDF173}">
