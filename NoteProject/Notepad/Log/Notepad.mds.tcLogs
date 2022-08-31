@@ -48,6 +48,42 @@
 				<Prp name="relpath" type="S" value="8_31_2022_11_30 AM_24_495\Description.tcLog"/>
 				<Prp name="status" type="I" value="0"/>
 			</Node>
+			<Node name="log idx=0003">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44804.4837155324"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{30224DEB-2A9A-4374-815C-C248B0A52457}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Test1]"/>
+				<Prp name="relpath" type="S" value="8_31_2022_11_36 AM_33_22\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0004">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44804.4845583449"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{3CBBAA53-C6CB-48E7-A6E6-20DF819C9E82}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Test1]"/>
+				<Prp name="relpath" type="S" value="8_31_2022_11_37 AM_45_842\Description.tcLog"/>
+				<Prp name="status" type="I" value="1"/>
+			</Node>
+			<Node name="log idx=0005">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44804.484755787"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{52B95CD4-65FB-46DE-B6E0-956F57319D07}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Test1]"/>
+				<Prp name="relpath" type="S" value="8_31_2022_11_38 AM_02_900\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
+			<Node name="log idx=0006">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44804.4851352083"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{0BCE2624-0FD7-47AD-949A-B3366332F378}"/>
+				<Prp name="nameofroot" type="S" value="Keyword Test Log [Test1]"/>
+				<Prp name="relpath" type="S" value="8_31_2022_11_38 AM_35_683\Description.tcLog"/>
+				<Prp name="status" type="I" value="0"/>
+			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>
 		<Prp name="version" type="S" value="11.0"/>
